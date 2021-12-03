@@ -1,3 +1,7 @@
+'''
+Challenge: https://adventofcode.com/2021/day/2
+By Coral Izquierdo Muñiz with ❤️
+'''
 f = open("cori.txt", "r")
 # Convert content to list
 lines=f.readlines()
